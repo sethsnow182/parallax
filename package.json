@@ -1,10 +1,10 @@
 {
-  "name": "Parallax_Website",
+  "name": "parallaxwebsite",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages"
+    "deploy": "gh-pages -d www"
   },
   "keywords": [],
   "author": "",
