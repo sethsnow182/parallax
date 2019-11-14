@@ -1,0 +1,16 @@
+{
+  "name": "Parallax_Website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://sethsnow182.github.io/parallax",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
