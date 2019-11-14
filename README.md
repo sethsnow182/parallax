@@ -1,3 +1,3 @@
 # parallax
 
-Here you can see an example page with the parallax effect. 
+Here you can see a basic landing page with the parallax effect.
